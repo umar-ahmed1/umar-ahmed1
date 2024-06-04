@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/[AVS1508](https://www.linkedin.com/in/umar-ahmed12/)"><img src="https://img.shields.io/badge/-Umar%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/umar-ahmed12"><img src="https://img.shields.io/badge/-Umar%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:umarahmed663@gmail.com"><img src="https://img.shields.io/badge/-umarahmed663@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
